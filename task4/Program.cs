@@ -2,3 +2,12 @@
 // 456 -> 6
 // 782 -> 2
 // 918 -> 8
+
+Console.Write("Введите число N ");
+int N = int.Parse(Console.ReadLine());
+
+int a = 0;
+
+a=N%10;
+
+Console.Write(a);
