@@ -3,17 +3,14 @@
 // 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
 // 2 -> " -2, -1, 0, 1, 2"
 
-Console.Write("Введите число ");
-int a = int.Parse(Console.ReadLine());
+Console.Write("Введите число N ");
+int N = int.Parse(Console.ReadLine());
 
+int a = -N;
 
-if (a == 4)
+while (a < N+1)
 
 {
-Console.Write("-4, -3, -2, -1, 0, 1, 2, 3, 4 ");
-}
-
-if (a == 2)
-{
-    Console.Write("-2, -1, 0, 1, 2");
+    Console.Write(" " + a + " ");
+    a = a + 1;
 }
