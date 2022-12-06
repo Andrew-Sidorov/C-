@@ -1,0 +1,15 @@
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\Lec2Massive.csproj.AssemblyReference.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\Lec2Massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\Lec2Massive.AssemblyInfoInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\Lec2Massive.AssemblyInfo.cs
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\Lec2Massive.csproj.CoreCompileInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\bin\Debug\net6.0\Lec2Massive.exe
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\bin\Debug\net6.0\Lec2Massive.deps.json
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\bin\Debug\net6.0\Lec2Massive.runtimeconfig.json
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\bin\Debug\net6.0\Lec2Massive.dll
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\bin\Debug\net6.0\Lec2Massive.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\Lec2Massive.dll
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\refint\Lec2Massive.dll
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\Lec2Massive.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\Lec2Massive.genruntimeconfig.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Massive\obj\Debug\net6.0\ref\Lec2Massive.dll

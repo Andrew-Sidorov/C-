@@ -1,0 +1,15 @@
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\bin\Debug\net6.0\Lec2Mass3.exe
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\bin\Debug\net6.0\Lec2Mass3.deps.json
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\bin\Debug\net6.0\Lec2Mass3.runtimeconfig.json
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\bin\Debug\net6.0\Lec2Mass3.dll
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\bin\Debug\net6.0\Lec2Mass3.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\Lec2Mass3.csproj.AssemblyReference.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\Lec2Mass3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\Lec2Mass3.AssemblyInfoInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\Lec2Mass3.AssemblyInfo.cs
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\Lec2Mass3.csproj.CoreCompileInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\Lec2Mass3.dll
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\refint\Lec2Mass3.dll
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\Lec2Mass3.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\Lec2Mass3.genruntimeconfig.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec2Mass3\obj\Debug\net6.0\ref\Lec2Mass3.dll

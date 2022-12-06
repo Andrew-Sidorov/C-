@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lec2Massive/1.0.0": {
+        "runtime": {
+          "Lec2Massive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lec2Massive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
