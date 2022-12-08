@@ -7,42 +7,6 @@
 
 Console.Write("Введите номер дня недели ");
 int n = int.Parse(Console.ReadLine());
-
-if (n == 1)
-{
-    Console.Write("нет");
-}
-
-if (n == 2)
-{
-    Console.Write("нет");
-}
-
-if (n == 3)
-{
-    Console.Write("нет");
-}
-
-if (n == 4)
-{
-    Console.Write("нет");
-}
-
-if (n == 5)
-{
-    Console.Write("нет");
-}
-
-if (n == 6)
-{
-    Console.Write("Да");
-}
-if (n == 7)
-{
-    Console.Write("Да");
-}
-
-if (n > 7)
-{
-    Console.Write("Такого дня недели нет");
-}
+if (n > 0 && n < 6) Console.Write("нет");
+if (n == 6 || n == 7) Console.Write("да");
+if (n > 7 || n < 1) Console.Write("Такого дня недели нет");
