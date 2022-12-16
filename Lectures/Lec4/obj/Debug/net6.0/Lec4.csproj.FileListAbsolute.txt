@@ -1,0 +1,15 @@
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\Lec4.csproj.AssemblyReference.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\Lec4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\Lec4.AssemblyInfoInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\Lec4.AssemblyInfo.cs
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\Lec4.csproj.CoreCompileInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\bin\Debug\net6.0\Lec4.exe
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\bin\Debug\net6.0\Lec4.deps.json
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\bin\Debug\net6.0\Lec4.runtimeconfig.json
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\bin\Debug\net6.0\Lec4.dll
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\bin\Debug\net6.0\Lec4.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\Lec4.dll
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\refint\Lec4.dll
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\Lec4.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\Lec4.genruntimeconfig.cache
+C:\Users\sidor\OneDrive\Рабочий стол\С#\Lectures\Lec4\obj\Debug\net6.0\ref\Lec4.dll
