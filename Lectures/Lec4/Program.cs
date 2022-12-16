@@ -26,59 +26,94 @@
 //     for (int j = 0; j < matr.GetLength(1); j++)
 //     {
 //         Console.Write($"{matr[i, j]} ");
+// //     }
+// //     Console.WriteLine();
+// // }
+// // }
+
+// // void fillArray(int[,] matr)
+// // {
+// //     for (int i = 0; i < matr.GetLength(0); i++)
+// // {
+// //     for (int j = 0; j < matr.GetLength(1); j++)
+// //     {
+// //         matr[i,j] = new Random().Next(1,10); // [1; 10)
+// //     }
+   
+// // }
+
+// // }
+// // int[,] matrix = new  int[3, 4];
+
+// // PrintArray(matrix);
+// // fillArray(matrix);
+// // Console.WriteLine();
+// // PrintArray(matrix);
+
+
+// int[,] pic = new int[,]
+
+// void PrintImage(int[,] image)
+// {
+
+// for (int i = 0; i < matr.GetLength(0); i++)
+// {
+//     for (int j = 0; j < matr.GetLength(1); j++)
+//     {
+//         // Console.Write($"{matr[i, j]} ");
+//         if (image[i,j] == 0) Console.WriteLine($" ");
+//         else (image[i,j] == 0) Console.Write($"+");
 //     }
 //     Console.WriteLine();
 // }
 // }
 
-// void fillArray(int[,] matr)
+// void FillImage(int row, int col)
 // {
-//     for (int i = 0; i < matr.GetLength(0); i++)
-// {
-//     for (int j = 0; j < matr.GetLength(1); j++)
+//     if(pic[row, col] == 0)
 //     {
-//         matr[i,j] = new Random().Next(1,10); // [1; 10)
+//         pic[row,col] = 1;
+//         FillImage(row-1, col);
+//         FillImage(row, col-1);
+//         FillImage(row+1, col);
+//         FillImage(row, col+1);
 //     }
-   
+// }
+// PrintArray(pic);
+// fillArray(13, 13);
+// PrintArray(pic);
+
+
+
+
+
+
+
+// double Factorial (int n)
+// {
+//      //1! = 1
+//      //0! = 1
+//     if (n == 1) return 1;
+//     else return n * Factorial(n - 1);
+// }
+// for (int i = 0; i < 40; i++)
+// {
+// Console.WriteLine($"{i}! = {Factorial(i)}");
 // }
 
-// }
-// int[,] matrix = new  int[3, 4];
-
-// PrintArray(matrix);
-// fillArray(matrix);
-// Console.WriteLine();
-// PrintArray(matrix);
 
 
-int[,] pic = new int[,]
+// f(1) = 1
+// f(2) = 1
+// f(n) = f(n-1) + f(n-2)
 
-void PrintImage(int[,] image)
+int Fibonacci(int n)
 {
-
-for (int i = 0; i < matr.GetLength(0); i++)
-{
-    for (int j = 0; j < matr.GetLength(1); j++)
-    {
-        // Console.Write($"{matr[i, j]} ");
-        if (image[i,j] == 0) Console.WriteLine($" ");
-        else (image[i,j] == 0) Console.Write($"+");
-    }
-    Console.WriteLine();
-}
+    if (n == 1 || n==2) return 1;
+    else Fibonacci(n-1) + Fibonacci(n-2);
 }
 
-void FillImage(int row, int col)
+for (int i = 0; i < 10; i++)
 {
-    if(pic[row, col] == 0)
-    {
-        pic[row,col] = 1;
-        FillImage(row-1, col);
-        FillImage(row, col-1);
-        FillImage(row+1, col);
-        FillImage(row, col+1);
-    }
+    Console.WriteLine(Fibonacci(i));
 }
-PrintArray(pic);
-fillArray(13, 13);
-PrintArray(pic);
